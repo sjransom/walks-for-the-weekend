@@ -1,0 +1,16 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #000;
+
+body {
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
