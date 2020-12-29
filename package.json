@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "walks-for-the-weekend",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "0.1.0",
-  "license": "0BSD",
+  "description": "",
+  "version": "0.1",
+  "license": "",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -22,12 +22,5 @@
   },
   "devDependencies": {
     "prettier": "2.1.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
