@@ -2,7 +2,7 @@
   "name": "walks-for-the-weekend",
   "private": true,
   "description": "",
-  "version": "0.1",
+  "version": "0.0.1",
   "license": "",
   "scripts": {
     "build": "gatsby build",
